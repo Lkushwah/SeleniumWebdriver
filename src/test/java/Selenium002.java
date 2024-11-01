@@ -3,8 +3,6 @@ import org.testng.annotations.Test;
 
 public class Selenium002 {
 
-
-
     @Test
     public void test_001(){
         FirefoxDriver driver = new FirefoxDriver();
