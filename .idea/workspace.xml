@@ -52,7 +52,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.Selenium002.test_001">
     <configuration name="Selenium001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Selenium001" />
       <module name="SeleniumWebdriver" />
@@ -60,8 +60,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selenium002.test_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Selenium002" />
+      <option name="METHOD_NAME" value="test_001" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium002.test_001" />
         <item itemvalue="Application.Selenium001" />
       </list>
     </recent_temporary>
