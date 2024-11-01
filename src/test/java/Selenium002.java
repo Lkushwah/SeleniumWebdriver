@@ -11,7 +11,5 @@ public class Selenium002 {
         driver.get("https://sdet.live");
         driver.quit();
 
-
-
     }
 }
