@@ -25,9 +25,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lkushwah&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lkushwah/SeleniumWebdriver.git&quot;,
+    &quot;accountId&quot;: &quot;9b8eec6b-1214-4de9-9de3-a3afcf717b32&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2oGBqIxSc10ZdpziObPEoZ23vQE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,31 +48,95 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Selenium001.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.Selenium002.test_001.executor": "Run",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Selenium001.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.Selenium002.test_001.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium003.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium004.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium005.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium005.test_001.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium006.test_001.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium007.testmothod01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium008.quitvsclose.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium009.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium009.navigate.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium010.titleverify.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.Selenium002.test_001">
-    <configuration name="Selenium001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Selenium001" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Selenium010.titleverify">
+    <configuration name="Selenium007.testmothod01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWebdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Selenium007" />
+      <option name="METHOD_NAME" value="testmothod01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium002.test_001" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium008.quitvsclose" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWebdriver" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Selenium002" />
-      <option name="METHOD_NAME" value="test_001" />
+      <option name="MAIN_CLASS_NAME" value="Selenium008" />
+      <option name="METHOD_NAME" value="quitvsclose" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium009" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Selenium009" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium009.navigate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Selenium009" />
+      <option name="METHOD_NAME" value="navigate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium010.titleverify" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebdriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project01" />
+      <option name="MAIN_CLASS_NAME" value="Project01.Selenium010" />
+      <option name="METHOD_NAME" value="titleverify" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -70,8 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Selenium002.test_001" />
-        <item itemvalue="Application.Selenium001" />
+        <item itemvalue="TestNG.Selenium010.titleverify" />
+        <item itemvalue="TestNG.Selenium009" />
+        <item itemvalue="TestNG.Selenium009.navigate" />
+        <item itemvalue="TestNG.Selenium008.quitvsclose" />
+        <item itemvalue="TestNG.Selenium007.testmothod01" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730488210435</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Selenium First Push">
+      <option name="closed" value="true" />
+      <created>1730914053680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730914053680</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

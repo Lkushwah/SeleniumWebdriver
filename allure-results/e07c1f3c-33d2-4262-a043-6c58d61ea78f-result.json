@@ -1,0 +1,61 @@
+{
+  "uuid": "e07c1f3c-33d2-4262-a043-6c58d61ea78f",
+  "historyId": "f881c10a861e66fa3400561c4d4ef104",
+  "fullName": "Selenium008.quitvsclose",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Selenium008"
+    },
+    {
+      "name": "testClass",
+      "value": "Selenium008"
+    },
+    {
+      "name": "testMethod",
+      "value": "quitvsclose"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "SeleniumWebdriver"
+    },
+    {
+      "name": "subSuite",
+      "value": "Selenium008"
+    },
+    {
+      "name": "host",
+      "value": "PUN-WKS-350"
+    },
+    {
+      "name": "thread",
+      "value": "20300@PUN-WKS-350.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "quitvsclose",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730908162053,
+  "stop": 1730908167553
+}

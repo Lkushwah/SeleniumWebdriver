@@ -1,0 +1,62 @@
+{
+  "uuid": "a6e83b25-42c0-450f-a5bc-5fae70c91876",
+  "historyId": "45b50b286a043bffb1bab2ead1248ddd",
+  "fullName": "Selenium003.test_actions_p2",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Selenium003"
+    },
+    {
+      "name": "testClass",
+      "value": "Selenium003"
+    },
+    {
+      "name": "testMethod",
+      "value": "test_actions_p2"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "SeleniumWebdriver"
+    },
+    {
+      "name": "subSuite",
+      "value": "Selenium003"
+    },
+    {
+      "name": "host",
+      "value": "PUN-WKS-350"
+    },
+    {
+      "name": "thread",
+      "value": "10828@PUN-WKS-350.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "test_actions_p2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Verify actions",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730821407542,
+  "stop": 1730821412537
+}
