@@ -1,0 +1,35 @@
+{
+  "uuid": "6c2d8fb6-3ebf-49ec-bae5-677cdd709b76",
+  "name": "SeleniumWebdriver",
+  "children": [
+    "a6e83b25-42c0-450f-a5bc-5fae70c91876"
+  ],
+  "befores": [
+    {
+      "name": "openBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730821403710,
+      "stop": 1730821407495
+    }
+  ],
+  "afters": [
+    {
+      "name": "closeBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730821412589,
+      "stop": 1730821416914
+    }
+  ],
+  "start": 1730821403696,
+  "stop": 1730821416914
+}

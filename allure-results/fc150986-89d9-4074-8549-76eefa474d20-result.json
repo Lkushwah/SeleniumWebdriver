@@ -1,0 +1,61 @@
+{
+  "uuid": "fc150986-89d9-4074-8549-76eefa474d20",
+  "historyId": "f64419f7d8218fafab0b1a90a09f763d",
+  "fullName": "Project01.Selenium010.titleverify",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Project01.Selenium010"
+    },
+    {
+      "name": "testClass",
+      "value": "Project01.Selenium010"
+    },
+    {
+      "name": "testMethod",
+      "value": "titleverify"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "SeleniumWebdriver"
+    },
+    {
+      "name": "subSuite",
+      "value": "Project01.Selenium010"
+    },
+    {
+      "name": "host",
+      "value": "PUN-WKS-350"
+    },
+    {
+      "name": "thread",
+      "value": "27768@PUN-WKS-350.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "titleverify",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730911162703,
+  "stop": 1730911168129
+}

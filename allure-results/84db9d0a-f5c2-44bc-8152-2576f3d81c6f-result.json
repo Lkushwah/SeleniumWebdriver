@@ -1,0 +1,61 @@
+{
+  "uuid": "84db9d0a-f5c2-44bc-8152-2576f3d81c6f",
+  "historyId": "f5771533b21369092103aeb17647aabf",
+  "fullName": "Selenium009.navigate",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Selenium009"
+    },
+    {
+      "name": "testClass",
+      "value": "Selenium009"
+    },
+    {
+      "name": "testMethod",
+      "value": "navigate"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "SeleniumWebdriver"
+    },
+    {
+      "name": "subSuite",
+      "value": "Selenium009"
+    },
+    {
+      "name": "host",
+      "value": "PUN-WKS-350"
+    },
+    {
+      "name": "thread",
+      "value": "21492@PUN-WKS-350.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "navigate",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730910790488,
+  "stop": 1730910796145
+}
