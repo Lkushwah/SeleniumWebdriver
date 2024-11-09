@@ -1,3 +1,5 @@
+package oct132024;
+
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.PageLoadStrategy;

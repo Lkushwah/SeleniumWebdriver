@@ -1,3 +1,5 @@
+package oct132024;
+
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 

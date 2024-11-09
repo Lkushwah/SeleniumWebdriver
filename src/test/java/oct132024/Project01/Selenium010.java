@@ -1,4 +1,4 @@
-package Project01;
+package oct132024.Project01;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
